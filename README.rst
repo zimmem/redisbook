@@ -1,8 +1,8 @@
 关于
 ===========
 
-这是《Redis 设计与实现》一书的原稿，
-在线阅读请访问 http://www.redisbook.com/ 。
+这是《Redis 设计与实现》第一版的原稿，
+在线阅读请访问 http://origin.redisbook.com/ 。
 
 
 声明
@@ -75,3 +75,5 @@
     - http://www.redisbook.com/en/latest/internal/aof.html#comment-877666176
 
 - yifang：http://www.redisbook.com/en/latest/internal-datastruct/skiplist.html#comment-864867431
+
+- shpng ： http://www.redisbook.com/en/latest/internal/ae.html#comment-1026187665

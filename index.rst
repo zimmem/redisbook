@@ -4,8 +4,14 @@
    contain the root `toctree` directive.
 
 
-Redis 设计与实现
+Redis 设计与实现（第一版）
 =================================================================
+
+.. warning::
+
+    你正在阅读的是《Redis 设计与实现》第一版（旧版），
+    请访问 `RedisBook.com <http://RedisBook.com/>`_ ，
+    查看关注 Redis 3.0 、包含更多新内容的新版《Redis 设计与实现》。
 
 本书的目标是以简明易懂的方式讲解 Redis 的内部运行机制，
 通过阅读本书，
@@ -193,7 +199,7 @@ Redis 还提供了一些同时对多个键值对进行处理的功能，
 
 要获得本书的最新动态，请关注 `redisbook <https://github.com/huangz1990/redisbook>`_ 项目。
 
-要了解编写本书时用到的工具（源码管理、文档的生成和托管、图片生成，等等），请阅读 `这篇文章 <http://www.huangz.me/en/latest/diary/2013/tools-for-writing-redisbook.html>`_ 。
+要了解编写本书时用到的工具（源码管理、文档的生成和托管、图片生成，等等），请阅读 `这篇文章 <http://blog.huangz.me/en/latest/diary/2013/tools-for-writing-redisbook.html>`_ 。
 
 下载本书离线版本： `pdf 格式 <https://github.com/huangz1990/redisbook/raw/master/pdf/redisbook.pdf>`_ 或 `html 格式 <https://media.readthedocs.org/htmlzip/redisbook/latest/redisbook.zip>`_ 。
 
@@ -208,4 +214,7 @@ Redis 还提供了一些同时对多个键值对进行处理的功能，
 或者发行有更多更棒内容的下一版，
 等等。
 
-捐款地址： https://me.alipay.com/huangz
+你可以通过使用\ `支付宝钱包 <https://mobile.alipay.com/main/download.htm?action=mobileClient>`_\ 扫描以下二维码来进行捐款，
+或者通过向支付宝帐号 huangz1990@gmail.com 转帐来进行捐款。
+
+.. image:: pay_to_huangz.png
